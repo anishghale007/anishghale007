@@ -17,6 +17,8 @@
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=anishghale007&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
+<!-- Add this div to clear the float -->
+<div style="clear: both;"></div>
 
 ### 🚀 What I’m Up To
 
